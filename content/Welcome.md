@@ -1,5 +1,6 @@
-This is your new *vault*.
+[[Page 1]]
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+[[Page 2]]
 
-When you're ready, delete this note and make the vault your own.
+
+
